@@ -1,6 +1,3 @@
-# Fuzz-Marriage-contract
-Smart Contract Security with Echidna: Fuzz Testing a Marriage Contract
-
 # Smart Contract Security: Fuzz Testing with Echidna  
 
 This repository demonstrates the use of **Echidna**, a fuzz testing tool for Ethereum smart contracts, to validate and secure a Solidity contract (`Person.sol`) modeling personal attributes and marriage relationships.  
